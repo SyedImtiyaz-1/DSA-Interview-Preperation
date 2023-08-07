@@ -4,10 +4,6 @@
 
 ---
 
-Also Check Here: 
-
-- [Top 75 LeetCode Questions to Crack The Coding Interviews](./TopLeetCodeProblems.md)
-
 ### Interview Questions
 
 ### Table of Contents
