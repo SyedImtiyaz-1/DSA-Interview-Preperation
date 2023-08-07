@@ -1,6 +1,6 @@
 # Coding Interview Questions
 
-> Click :star: if you like the project. Pull Request are highly appreciated. Follow me [@OmBharatiya](https://linkedin.com/in/imtiyaz-sde) for technical updates.
+> Click :star: if you like the project. Pull Request are highly appreciated. Follow me [@SyedImtiyazAli](https://linkedin.com/in/imtiyaz-sde) for technical updates.
 
 ---
 
