@@ -1,13 +1,12 @@
 # Coding Interview Questions
 
-> Click :star: if you like the project. Pull Request are highly appreciated. Follow me [@OmBharatiya](https://twitter.com/ombharatiya) for technical updates.
+> Click :star: if you like the project. Pull Request are highly appreciated. Follow me [@OmBharatiya](https://linkedin.com/in/imtiyaz-sde) for technical updates.
 
 ---
 
 Also Check Here: 
 
 - [Top 75 LeetCode Questions to Crack The Coding Interviews](./TopLeetCodeProblems.md)
-- [Python Programming Language Resources to Learn](./PythonResources.md)
 
 ### Interview Questions
 
